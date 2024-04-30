@@ -1,31 +1,4 @@
-# GGyuhun.github.io
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	전율짱짱맨
-</head>
-<body>
-  <p>Hello World!</p>
-</body>
-</html>
-(공지용)Github 연계 1인 1 지능형 실험실 구축 
-참고 실험실
-0_ 회원가입
-https://github.com/
-1_ Repository 생성
-https://github.com/new
-Repository name 설정
-(사용자이름: Owner에 써있는 이름).github.io
-Public 옵션 선택 
-Add a README file 체크 
-Create repository 눌러 생성 
-2_ html 파일 업로드 
-2_1 html 예제 파일
-00_ hello world
-01_ home page main
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
